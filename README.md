@@ -1,1 +1,2 @@
-# Sad-Cat-Feeder-Code
+# About the Sad Cat Feeder
+
